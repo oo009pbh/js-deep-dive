@@ -21,7 +21,7 @@
 
 문법적으로도, 의미적으로도 옳게 프로그래밍을 해야한다.
 
-```
+```js
 const number = 100;(O)
 const number = 'string';(X)
 ```
