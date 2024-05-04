@@ -33,7 +33,7 @@
 
 따라서 아래처럼 문자열의 한 문자를 변경해도 작동하지 않는다.
 
-```js
+```javascript
 var str = 'string;
 str[0] = 'A'; 
 console.log(str) //string
